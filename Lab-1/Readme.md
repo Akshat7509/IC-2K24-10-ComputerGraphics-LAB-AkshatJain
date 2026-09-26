@@ -12,7 +12,7 @@ The repository covers fundamental computer graphics concepts, including graphics
 Repository Structure
 IC-2K24-10-ComputerGraphics-lab-AkshatJain
 │
-├── CGM_Lab1/
+├── Lab-1/
 │   ├── Lab-1.cpp
-│
+    ├── output.png
 └── README.md
